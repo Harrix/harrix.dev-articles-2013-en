@@ -4,6 +4,8 @@ categories: [it, web]
 tags: [CSS]
 demo: https://codepen.io/Harrix/pen/pZZZxg
 update: 2018-07-01
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Changing style of the kbd tag

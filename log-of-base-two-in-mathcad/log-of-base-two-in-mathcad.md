@@ -3,6 +3,8 @@ date: 2013-01-03
 categories: [it, program]
 tags: [Mathcad, Mathematics]
 latex: true
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Logarithm of base 2 in Mathcad
