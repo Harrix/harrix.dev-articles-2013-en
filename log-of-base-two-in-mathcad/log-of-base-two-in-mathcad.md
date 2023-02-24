@@ -8,6 +8,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2013-en/blob/main/log-of-base-two-in-mathcad/log-of-base-two-in-mathcad.md
+url: https://harrix.dev/en/blog/2013/log-of-base-two-in-mathcad/
 ---
 
 # Logarithm of base 2 in Mathcad
