@@ -14,6 +14,8 @@ lang: en
 
 # Logarithm of base 2 in Mathcad
 
+![Featured image](featured-image.svg)
+
 Some people are confused when in `Mathcad` (e.g. version 15) they see only two logarithms in the list of operators: natural and decimal.
 
 The operators panel in the `Mathcad 15`:

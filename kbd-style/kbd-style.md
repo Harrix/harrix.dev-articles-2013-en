@@ -15,6 +15,8 @@ lang: en
 
 # Changing style of the kbd tag
 
+![Featured image](featured-image.svg)
+
 On the Internet I met that in the text of articles sometimes keyboard combinations are depicted by simulating images of buttons. This is done with the tag `<kbd>` and its design in CSS.
 
 I use (**Update:** now I do not use these styles) in the articles two types of design tag `<kbd>`: to display buttons and menu items in programs that need to go.
