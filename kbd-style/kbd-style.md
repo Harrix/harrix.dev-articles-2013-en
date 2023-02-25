@@ -79,6 +79,8 @@ Screenshot:
 
 ![The result of applying the styles](img/kbd-style.en.png)
 
+_Figure 1: The result of applying the styles_
+
 Example in CodePen:
 
 <https://codepen.io/Harrix/pen/pZZZxg>

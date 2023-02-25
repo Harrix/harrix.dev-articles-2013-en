@@ -22,10 +22,16 @@ The operators panel in the `Mathcad 15`:
 
 ![Operator panel](img/panel.png)
 
+_Figure 1: Operator panel_
+
 ![Calculate the logarithm log(8)=0.903](img/log-of-eight.png)
+
+_Figure 2: Calculate the logarithm log(8)=0.903_
 
 How to calculate logarithm, e.g., base 2: $log_2 8$?
 
 It's simple. When you write a decimal logarithm, then enter the base you need, separated by a comma. A base 10 is just the default:
 
 ![Calculate the logarithm log(8.2)=3](img/log-of-eight-to-base-two.png)
+
+_Figure 3: Calculate the logarithm log(8.2)=3_
