@@ -70,7 +70,10 @@ Example of using styles:
 ```html
 <p>Press the key <kbd>Ctrl</kbd> + <kbd>W</kbd></p>
 
-<p>Go to the program menu <kbd class="menu">Preferences</kbd> → <kbd class="menu">Package Control</kbd></p>
+<p>
+  Go to the program menu <kbd class="menu">Preferences</kbd> →
+  <kbd class="menu">Package Control</kbd>
+</p>
 ```
 
 As a result, you will get this result.
