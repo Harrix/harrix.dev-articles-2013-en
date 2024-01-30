@@ -8,7 +8,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-articles-2013-en/blob/main/log-of-base-two-in-mathcad/log-of-base-two-in-mathcad.md
-permalink: https://harrix.dev/en/blog/2013/log-of-base-two-in-mathcad/
+permalink: https://harrix.dev/en/articles/2013/log-of-base-two-in-mathcad/
 lang: en
 ---
 
